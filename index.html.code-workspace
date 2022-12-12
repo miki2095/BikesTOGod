@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "index_files"
+		},
+		{
+			"path": "bike to god"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index_files",
+		"liveServer.settings.port": 5501
+	}
+}
